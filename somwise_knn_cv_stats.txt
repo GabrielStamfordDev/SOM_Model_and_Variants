@@ -1,0 +1,6 @@
+--- RELATORIO SOM-WISE KNN CV ---
+Map=8x4, Iters=10, Folds=10, Reps=10
+Grid k: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31]
+
+RMSE Medio (Otimizado): 5.098542
+Desvio Padrao: 0.174853

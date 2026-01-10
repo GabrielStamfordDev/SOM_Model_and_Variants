@@ -1,0 +1,17 @@
+--- RELATORIO ESTATISTICO SOM-WISE CV ---
+Config: Map=8x4, Iters=10, Folds=10, Reps=10
+
+RMSE Medio: 12.612424
+Desvio Padrao: 0.360828
+
+Todos os RMSEs globais:
+Repeticao 1: 12.547574
+Repeticao 2: 12.724129
+Repeticao 3: 12.425982
+Repeticao 4: 12.573833
+Repeticao 5: 13.622434
+Repeticao 6: 12.334285
+Repeticao 7: 12.498661
+Repeticao 8: 12.274605
+Repeticao 9: 12.659550
+Repeticao 10: 12.463188

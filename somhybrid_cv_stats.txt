@@ -1,0 +1,17 @@
+--- RELATORIO ESTATISTICO CV REPETIDA ---
+Config: Map=8x4, Iters=10, Folds=10, Reps=10
+
+RMSE Medio: 9.268832
+Desvio Padrao: 0.367472
+
+Todos os RMSEs globais:
+Repeticao 1: 9.294950
+Repeticao 2: 9.386022
+Repeticao 3: 9.460017
+Repeticao 4: 9.918497
+Repeticao 5: 8.781154
+Repeticao 6: 9.615881
+Repeticao 7: 9.284324
+Repeticao 8: 9.202565
+Repeticao 9: 8.556074
+Repeticao 10: 9.188835
