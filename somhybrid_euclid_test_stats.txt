@@ -1,17 +1,17 @@
 --- RELATORIO SOM-HYBRID (TESTE EUCLIDIANO) ---
-Config: Map=8x4, Iters=10, Folds=10, Reps=10
+Config: Map=6x2, Iters=10, Folds=10, Reps=10
 
-RMSE Medio: 10.379004
-Desvio Padrao: 0.651508
+RMSE Medio: 0.195246
+Desvio Padrao: 0.005862
 
 Todos os RMSEs globais:
-Repeticao 1: 9.954132
-Repeticao 2: 10.268135
-Repeticao 3: 10.750454
-Repeticao 4: 11.859557
-Repeticao 5: 9.691426
-Repeticao 6: 10.974653
-Repeticao 7: 10.694672
-Repeticao 8: 9.910120
-Repeticao 9: 9.819959
-Repeticao 10: 9.866938
+Repeticao 1: 0.189251
+Repeticao 2: 0.196521
+Repeticao 3: 0.205767
+Repeticao 4: 0.193453
+Repeticao 5: 0.188441
+Repeticao 6: 0.192810
+Repeticao 7: 0.193667
+Repeticao 8: 0.206120
+Repeticao 9: 0.190883
+Repeticao 10: 0.195550
